@@ -1,0 +1,11 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*~
+
+# Teachable Machine Exports
+*.zip
+
+# Raw video files
+*.mp4
+*.mov
