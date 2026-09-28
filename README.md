@@ -80,9 +80,15 @@ Correct but low-confidence predictions:
 
 ## 4. Screenshots
 
-1. **Class list with image counts:** ![Class list](Media/class_list.png)
-2. **Model working correctly:** ![Correct prediction](Media/confident_correct.png)
-3. **Model confidently wrong:** ![Confidently wrong](Media/confident_wrong.png)
+1. **Class list with image counts:**
+
+![Class list](Media/class_list.png)
+2. **Model working correctly:**
+
+![Correct prediction](Media/confident_correct.png)
+3. **Model confidently wrong:**
+
+![Confidently wrong](Media/confident_wrong.png)
 
 ---
 
