@@ -9,3 +9,6 @@ Thumbs.db
 # Raw video files
 *.mp4
 *.mov
+
+# vscode
+.vscode/*
