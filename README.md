@@ -13,7 +13,7 @@ Holberton ML, Project 1. A Teachable Machine image classifier (rock / paper / sc
 
 *Drafted before any image collection.*
 
-- **What we are collecting:** photographs of hands making three gestures: rock, paper, scissors.
+- **What I am collecting:** photographs of hands making three gestures: rock, paper, scissors.
 - **Whose:** Consent and agreement for publication were provided by all persons whose data was collected, them being myself, my partner, and my mom (Hi👋).
 - **Where it is stored:** this group repository, which is public.
 - **Faces:** No face appears in any frame.
@@ -30,7 +30,7 @@ Holberton ML, Project 1. A Teachable Machine image classifier (rock / paper / sc
 | Scissors | 55 |
 | **Total** | **165** |
 
-**What we varied or didn't vary:**
+**What I varied or didn't vary:**
 - Hands: mine, right
 - Angles: straight on, tilted, from above, distance
 - Light: window, room lights, spot lights, back lights, dark corner
